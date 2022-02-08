@@ -4,7 +4,7 @@
 
 **Kotlin RecyclerView Practice** Overview of RecycleView with a basic implementation of image loading and review
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Functionality
 
@@ -16,13 +16,18 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] Custom animation of items as they enter the screen
+* [x] Custom animation of items as they enter the screen
 
-## Video Walkthrough
+## Video Walk-through
 
-Here's a walkthrough of implemented user stories:
+Here's a walk-through of implemented features:
 
-<img src='https://media.giphy.com/media/YF2hn8Ym5C1UoSO7R6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<title='Video Walk-through' width='' alt='Video Walk-through' />
+
+| Before      | After      |
+|------------|-------------|
+| <img src="https://media.giphy.com/media/YF2hn8Ym5C1UoSO7R6/giphy.gif"> | <img src="https://media.giphy.com/media/VRiJrRug9A4GwWPhQm/giphy.gif" width=''> |
+
 
 GIF created with [Giphy](https://giphy.com).
 
