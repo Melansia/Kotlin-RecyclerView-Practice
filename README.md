@@ -22,8 +22,6 @@ The following **extensions** are implemented:
 
 Here's a walk-through of implemented features:
 
-<title='Video Walk-through' width='' alt='Video Walk-through' />
-
 | Before      | After      |
 |------------|-------------|
 | <img src="https://media.giphy.com/media/YF2hn8Ym5C1UoSO7R6/giphy.gif"> | <img src="https://media.giphy.com/media/VRiJrRug9A4GwWPhQm/giphy.gif" width=''> |
