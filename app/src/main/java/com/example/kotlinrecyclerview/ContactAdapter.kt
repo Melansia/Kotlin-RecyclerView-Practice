@@ -27,7 +27,7 @@ class ContactAdapter(private val context: Context, private val contacts: List<Co
     // Involves populating data into the item through holder
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         Log.i(TAG, "onBindViewHolder at position $position")
-        //TODO: Implementing animation
+        holder.itemView.startAnimation(AnimationUtils.loadAnimation(holder.itemView.context, R.anim.slide_in))
         val contact = contacts[position]
         holder.bind(contact)
     }
